@@ -1,0 +1,844 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"html",
+				"html\thtml"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"ver",
+				"verbose_name_plural"
+			],
+			[
+				"blog",
+				"blog_mvmv"
+			],
+			[
+				"grup",
+				"grupoBolas"
+			],
+			[
+				"grupoBol",
+				"grupoBolasASeremAdicionadas"
+			],
+			[
+				"gru",
+				"grupoCaindo〔variable〕"
+			],
+			[
+				"bolas",
+				"grupoBolasASeremAdicionadas〔variable〕"
+			],
+			[
+				"grubas",
+				"grupoBolas"
+			],
+			[
+				"bolaex",
+				"bolasExtras〔argument〕"
+			],
+			[
+				"baixa",
+				"baixarTween"
+			],
+			[
+				"bola",
+				"bolasExtras〔argument〕"
+			],
+			[
+				"grupoBola",
+				"grupoBolasExtras"
+			],
+			[
+				"grupo",
+				"grupoBolas〔variable〕"
+			],
+			[
+				"ponto",
+				"pontoDoTiro〔variable〕"
+			],
+			[
+				"get",
+				"getChildAt"
+			],
+			[
+				"ge",
+				"getChildAt"
+			],
+			[
+				"gruas",
+				"grupoBolas〔variable〕"
+			],
+			[
+				"ex",
+				"grupoBolasExtras〔variable〕"
+			],
+			[
+				"altu",
+				"alturaPainelPontos〔variable〕"
+			],
+			[
+				"tama",
+				"tamanhoBloco〔variable〕"
+			],
+			[
+				"colocar",
+				"colocarBolaExtra〔variable〕"
+			],
+			[
+				"colcar",
+				"colocarBolaExtra"
+			],
+			[
+				"on",
+				"onComplete"
+			],
+			[
+				"baix",
+				"baixarTween"
+			],
+			[
+				"game",
+				"gameOptions〔variable〕"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"placa",
+				"placarPontos"
+			],
+			[
+				"velo",
+				"velocity"
+			],
+			[
+				"ati",
+				"atiraBola"
+			],
+			[
+				"mi",
+				"miraBola"
+			],
+			[
+				"taman",
+				"tamanhoBola"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"font",
+				"fontSize"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"pontx",
+				"pontoInicialX〔variable〕"
+			],
+			[
+				"ponx",
+				"pontoFinalX〔variable〕"
+			],
+			[
+				"pony",
+				"pontoInicialY〔variable〕"
+			],
+			[
+				"pon",
+				"pontoFinalY〔variable〕"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"click",
+				"clicks〔variable〕"
+			],
+			[
+				"cent",
+				"centerY〔variable〕"
+			],
+			[
+				"set",
+				"setAll"
+			],
+			[
+				"phys",
+				"physicsBodyType"
+			],
+			[
+				"en",
+				"enableBody"
+			],
+			[
+				"til",
+				"tilemaps"
+			],
+			[
+				"loa",
+				"loadTexture"
+			],
+			[
+				"clo",
+				"clovisIdle"
+			],
+			[
+				"add",
+				"addChangeStateEventListeners"
+			],
+			[
+				"sta",
+				"state8"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 217,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/game.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 236.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"commen",
+				"Toggle Block Comment"
+			],
+			[
+				"sib",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sid",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"sibar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"REMOVE",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"psuh",
+				"Git: Push"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"sideb",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"Git: Push Tags"
+			],
+			[
+				"git tag",
+				"Git: Tag"
+			],
+			[
+				"log",
+				"Git: Quick Log"
+			],
+			[
+				"comm",
+				"Git: Quick Commit"
+			],
+			[
+				"quic",
+				"Git: Quick Add"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"add",
+				"Git: Add Remote"
+			],
+			[
+				"comma",
+				"Git: Custom Command"
+			],
+			[
+				"tag",
+				"Git: Add Signed Tag"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git: d",
+				"Git: Diff"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"gitsta",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"git status"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/vinicius/Projetos/Concentration"
+	],
+	"file_history":
+	[
+		"/d/Users/vinicius/Desktop/sealife_simple/index.html",
+		"/d/Users/vinicius/Desktop/sealife_simple/src/preload.js",
+		"/d/Users/vinicius/Desktop/sealife_simple/src/main.js",
+		"/d/Users/vinicius/Desktop/sealife_simple/src/gametitle.js",
+		"/d/Users/vinicius/Desktop/sealife_simple/src/boot.js",
+		"/C/Users/vinicius/Projetos/Bolita/game.js",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/views.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/templates/post.html",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/models.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/admin.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/templates/categoria.html",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/templates/index.html",
+		"/C/Users/vinicius/AppData/LocalLow/Lazy Bear Games/Graveyard Keeper/1.dat",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_renan/admin.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/migrations/0003_comentario.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_renan/models.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_renan/templates/index.html",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_renan/templates/post.html",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_renan/templates/categoria.html",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_renan/views.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mcg/migrations/0003_comentario.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/apps.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/suap/settings_base.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/suap/settings.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/urls.py",
+		"/C/Users/vinicius/Projetos/SUAP/ativar.bat",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/blog_mvmv/migrations/0001_initial.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-env/Scripts/deactivate.bat",
+		"/C/Users/vinicius/Projetos/SUAP/ativar virtualenv e server.bat",
+		"/d/Users/vinicius/Desktop/ASF 3/config/Bengonos.json",
+		"/C/Users/vinicius/Projetos/SUAP/suap-env/Lib/site-packages/django/core/management/__init__.py",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/manage.py",
+		"/d/Users/vinicius/Desktop/ASF 3/config/joexadrez.json",
+		"/d/Users/vinicius/Desktop/ASF 3/config/joexadrez.bin",
+		"/d/Users/vinicius/Desktop/ASF 3/config/ASF.json",
+		"/D/Users/vinicius/Desktop/sealife_simple/index.html",
+		"/C/Users/vinicius/Projetos/Bolita/index.html",
+		"/C/Users/vinicius/Projetos/Bolita/README.md",
+		"/C/Users/vinicius/Projetos/Bolita/game1.js",
+		"/C/Users/vinicius/Projetos/SUAP/suap-curso/deploy/requirements.txt",
+		"/C/PostgreSQL/data/pg_hba.conf",
+		"/C/Users/vinicius/AppData/Local/Temp/Rar$DRa0.285/index.html",
+		"/C/Users/vinicius/Projetos/Bolita/README.MD",
+		"/C/Users/vinicius/git-inicio/Readme.md",
+		"/C/Users/vinicius/Projetos/Phaser/index.html",
+		"/C/Users/vinicius/Projetos/Phaser/state9.js",
+		"/C/Users/vinicius/Projetos/Phaser/state3.js",
+		"/C/Users/vinicius/Projetos/Phaser/README.md",
+		"/C/Users/vinicius/Projetos/Phaser/assets/sprites/clovis_idle1.ase",
+		"/C/Users/vinicius/Projetos/Phaser/state8.js",
+		"/C/Users/vinicius/Projetos/Phaser/state7.js",
+		"/C/Users/vinicius/Projetos/Phaser/state6.js",
+		"/C/Users/vinicius/Projetos/Phaser/state6",
+		"/C/Users/vinicius/Projetos/Phaser/state0.js",
+		"/C/Users/vinicius/Projetos/Phaser/state5.js",
+		"/C/Users/vinicius/Projetos/Phaser/state4.js",
+		"/C/Users/vinicius/Projetos/Phaser/state2.js",
+		"/C/Users/vinicius/Projetos/Phaser/state1.js",
+		"/C/Users/vinicius/Projetos/Phaser/phaser/phaser.js",
+		"/C/Users/vinicius/Projetos/Phaser/main.js",
+		"/C/Users/vinicius/Projetos/Phaser/assets/tilemaps/mapa.json",
+		"/C/Users/vinicius/Projetos/Phaser/assets/tilemaps/grass.json",
+		"/C/Users/vinicius/Projetos/Phaser/main.css",
+		"/D/Users/vinicius/Downloads/aseprite-1.1.7/README.md",
+		"/C/Users/vinicius/Projetos/Phaser/.gitignore",
+		"/C/Users/vinicius/Projetos/Phaser/.git/COMMIT_EDITMSG",
+		"/C/Users/vinicius/Projetos/phaser/Readme.md",
+		"/C/Users/vinicius/AppData/Roaming/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+		"/C/Users/vinicius/AppData/Roaming/Sublime Text 3/Packages/User/git.sublime-commands",
+		"/C/Users/vinicius/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/C/Users/vinicius/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/D/Users/vinicius/Downloads/giveawayHelper.user.js"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"adicionarLinha",
+			"row",
+			"grupoCaindo",
+			"Tween",
+			"tween",
+			"grupoBolas",
+			"grupoBolasExtras",
+			"grupoBolasASeremAdicionadas",
+			"bolaExtra",
+			"bolasCaidas",
+			"bolaDisparada",
+			"bolasCaidas",
+			"bonusBola",
+			"BonusBola",
+			"bonusBola",
+			"BonusBola",
+			"bonusBola",
+			"tamanhoBola",
+			"colocarBolaExtra",
+			"probabilidadeBonusBola",
+			"bola extra",
+			"probabilidadeBolaBonus",
+			"extra",
+			"probabilidadeBolaExtra",
+			"bolaExtra",
+			"tint",
+			"comentario",
+			"+",
+			"lancamento",
+			"lançamento",
+			"Lançamento",
+			"painel",
+			"scrollTween",
+			"extraBall",
+			"bolaExtra",
+			"extraBall",
+			"upgrade_player_buildzone_gd",
+			"{\"gd_tag\":\"upgrade_player_buildzone_gd\",\"enabled\":true}",
+			"h5",
+			"=",
+			"á",
+			"Categoria",
+			"categoria",
+			"  this.grupoBolas.getChildAt(0).body.velocity.set(gameOptions.velocidadeBola * Math.cos(anguloDoTiro), gameOptions.velocidadeBola * Math.sin(anguloDoTiro)",
+			"distX",
+			"consol",
+			"mirarBola",
+			"x",
+			"direction",
+			"ajustarBola",
+			"bolaEx",
+			"bolaex",
+			"y",
+			"x",
+			"panel",
+			", \"",
+			"bolasFired",
+			"pointOfFire",
+			"angleOfFire",
+			"landedBalls",
+			"block",
+			"blockPosition",
+			"placeExtraBall",
+			"placedBlocks",
+			"blockSize",
+			"addLine",
+			"mergeBall",
+			"addBall",
+			"adjustBall",
+			"shootBall",
+			"aimBall",
+			"ball",
+			"extraBalls",
+			"shooting",
+			"aiming",
+			"fallingGroup",
+			"ballsGroup",
+			"blockGroup",
+			"launchPanel",
+			"scorePanel",
+			"ballsToBeAddedGroup",
+			"extraBallGroup",
+			"trajectory",
+			"extraBallProbability",
+			"maxBlocksPerLine",
+			"blocksPerLine",
+			"ballSpeed",
+			"ballSize",
+			"launchPanelHeight",
+			"scorePanelHeight",
+			"grupoBolasExtr@s",
+			"bolasExtras",
+			"grupoBolasExtras",
+			"bola",
+			"twee",
+			"twe",
+			"b",
+			"adicionarBolas",
+			"bola",
+			"immovable",
+			"inel de lançamento",
+			"console",
+			"//",
+			"\t//",
+			"//",
+			"atiraBola",
+			"playGame",
+			"x",
+			"X",
+			"ajustaBola",
+			"miraBola",
+			"bola",
+			"scipy",
+			"ldap",
+			"trust",
+			"10",
+			"X",
+			"Y",
+			"Inicial",
+			"emmitter",
+			"');\n",
+			"5",
+			"a",
+			"tint",
+			"3",
+			"1",
+			"0",
+			"1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n\t//",
+			"\n\t//\n",
+			"\n//",
+			"\\n //",
+			"//"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/game.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 102.0
+	},
+	"output.git-custom":
+	{
+		"height": 102.0
+	},
+	"output.git-push":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "Concentration.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"gam",
+				"game.js"
+			],
+			[
+				"3",
+				"state3.js"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"side",
+				"assets\\sprites\\clovis_idle1.ase"
+			],
+			[
+				"9",
+				"state9.js"
+			],
+			[
+				"8",
+				"state8.js"
+			],
+			[
+				"7",
+				"state7.js"
+			],
+			[
+				"6",
+				"state6.js"
+			],
+			[
+				"5",
+				"state5.js"
+			],
+			[
+				"4",
+				"state4.js"
+			],
+			[
+				"state3",
+				"state3.js"
+			],
+			[
+				"1",
+				"state1.js"
+			],
+			[
+				"in",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
