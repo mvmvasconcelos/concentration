@@ -1,5 +1,5 @@
 # Concentration
-##Jogo da memória
+## Jogo da memória
 
 Jogo desenvolvido com Phaser v2.4.4. disponível para testes em [itch.io](https://mvmvasconcelos.itch.io/memoria).
 
